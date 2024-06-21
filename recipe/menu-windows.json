@@ -6,7 +6,7 @@
             "name": "Anaconda Prompt",
             "system": "%windir%\\System32\\cmd.exe",
             "scriptarguments": ["/K", "${ROOT_PREFIX}\\Scripts\\activate.bat", "${PREFIX}"],
-            "icon": "${MENU_DIR}/Iconleak-Atrous-Console.ico"
+            "icon": "${MENU_DIR}/anaconda_console.ico"
         }
     ]
 }
