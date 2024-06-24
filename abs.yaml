@@ -1,0 +1,6 @@
+channels:
+  mesters_org: installer-menus
+build_parameters:
+  - "--suppress-variables"
+  - "--error-overlinking"
+  - "--error-overdepending"
